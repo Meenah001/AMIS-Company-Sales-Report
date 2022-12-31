@@ -114,3 +114,17 @@ The segment that had the highest sales was Consumer segment, this recorded the t
 ![PNG image](https://user-images.githubusercontent.com/97677904/210136237-8b64531d-72e6-4802-8ca9-85652ba717f4.png)
 
 Apparently, Sean Miller happens to be the customer with the highest purchase of the company product. He has made a purchase of $25k
+
+# Conclusion and Recommendations
+
+* West Region is the appropriate location to build the new branch of the company, because it has the highest sales and made the highest profit over the years
+
+* Morris Garcia should be the Sales Manager for the new branch of the company, as she has shown her been devoted to the company's  sales by making the highest sales amongst her colleagues. Therefore, she should be appreciated by making her the Manager to new Office
+
+* Sean Miller is the most precious customer at the moment and needs to be compensated either by an award or considerable discounts on subsequent purchase of any of the company's products
+
+
+
+
+
+
