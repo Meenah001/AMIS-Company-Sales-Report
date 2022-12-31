@@ -63,6 +63,60 @@ The data for this analysis are located in various tables. For this reason, appro
 * Products Table using "Product ID"
 * Customers Tables via "Customer ID"
 
+![Data Modeling ](https://user-images.githubusercontent.com/97677904/210134103-0d0d5f3f-d450-4918-b206-c03278c12211.png)
+
+# Data Aanalysis/ Visualization
+
+Analysis was done using simple and appropriate visuals in Power Bi
+
+---
+# Sales by Region
+
+![Sales by region](https://user-images.githubusercontent.com/97677904/210134228-3227989c-ca48-47db-a8ed-850f21fbafa8.png)
+
+The company has four region in which it sales are focused on, and these are the West, East, Central and South. The image above make it clear that the West had the highest sales of $725,457 and the South with the lowest sales of $391,721
+
+---
+# Profit by Region
+
+![Profit by region](https://user-images.githubusercontent.com/97677904/210134507-2f293477-7110-4dec-b62a-8e1bbfc10886.png)
+
+Western region has made the highest profit so far, with about $108,418 follow by the Eastern region having $91,522 profit. The Central region had the lowest profit of $39,706
+
+---
+# Profit by Category of product
+
+![Profit by category of product ](https://user-images.githubusercontent.com/97677904/210134660-4be1958e-a194-4ed5-b773-6d81f907f5b1.png)
+
+There are three categories of product that are being produced in this company. We have the Technology product, Office supplies product and the Furniture product. The Technology product has brought more profit to the company's sales over the year. It has the highest profit of $145,454 and Furniture with the over all lowest profit of $18,451
+
+---
+# Sales by SalesReps
+
+![Sales by sales rep](https://user-images.githubusercontent.com/97677904/210134762-691518d0-5c61-45eb-96b9-6a6f0e4d1235.png)
+
+Something seems not to be right here. "ORGANIC" is definitely an outlier. After making more enquiries from the stakeholders, I got to know that the term "Organic" refers to sales made without the help of the salesreps and should thus be excluded:
+
+![Best sales rep](https://user-images.githubusercontent.com/97677904/210134880-b5642fa5-0130-4abe-8f01-f3df930d6cf0.png)
+
+After getting rid of the outlier which is the "Organic" from the data, the correct hierarchy of the salesReps is shown above, this help is to know the salesRep with the highest sales. As seen above, Morris Garcia had the highest sales of $92,366 and Jessica Smith had the lowest sales of $50,206
+
+---
+# Sales by Segment
+
+![Sales by segment](https://user-images.githubusercontent.com/97677904/210135127-d8c4bde6-5361-42e8-8ad8-ee6cd677b45c.png)
+
+The segment that had the highest sales was Consumer segment, this recorded the total sales of over $1M follow by the Corporate segment with about $700k and Home office which is the last segment had the lowest sales of $429k
+
+
+
+
+
+
+
+
+
+
 
 
 
