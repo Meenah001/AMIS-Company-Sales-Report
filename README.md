@@ -99,7 +99,7 @@ Something seems not to be right here. "ORGANIC" is definitely an outlier. After 
 
 ![Best sales rep](https://user-images.githubusercontent.com/97677904/210134880-b5642fa5-0130-4abe-8f01-f3df930d6cf0.png)
 
-After getting rid of the outlier which is the "Organic" from the data, the correct hierarchy of the salesReps is shown above, this help is to know the salesRep with the highest sales. As seen above, Morris Garcia had the highest sales of $92,366 and Jessica Smith had the lowest sales of $50,206
+After getting rid of the outlier which is the "Organic" from the data, the correct hierarchy of the salesReps in correlation with sales made is shown above, this help is to know the salesRep with the highest sales. As seen above, Morris Garcia had the highest sales of $92,366 and Jessica Smith had the lowest sales of $50,206
 
 ---
 # Sales by Segment
@@ -108,19 +108,9 @@ After getting rid of the outlier which is the "Organic" from the data, the corre
 
 The segment that had the highest sales was Consumer segment, this recorded the total sales of over $1M follow by the Corporate segment with about $700k and Home office which is the last segment had the lowest sales of $429k
 
+---
+# Sales by Customer's Name
 
+![PNG image](https://user-images.githubusercontent.com/97677904/210136237-8b64531d-72e6-4802-8ca9-85652ba717f4.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Apparently, Sean Miller happens to be the customer with the highest purchase of the company product. He has made a purchase of $25k
