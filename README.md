@@ -3,6 +3,7 @@
 ---
 
 # Introduction
+
 In order to know the best location to build a new branch of AMIS company, an analysis was carried out on the dataset given for this to be achieved. The problem satatement is an imaginary case scenario I thought about after seeing the dataset.
 
 ---
@@ -24,6 +25,7 @@ The dataset is an excel file saved locally in a folder. The dataset is denormali
 ---
 
 # Data sourcing
+
 The data was normalised that is, the combined information was seperated into different tables resulting into 5 tables:
 * Sales Table
 * Customers Table
@@ -45,7 +47,7 @@ Customer's Table
 
 ![Customer’s Table](https://user-images.githubusercontent.com/97677904/210133551-6dfc7fca-8ece-4c41-886b-c346d05a0ff6.png)
 
-The column headers which were initially seen to be among the rows (records), were changed using the "Use the first row has Headers" in power query. 
+The first rows were not headers and this was solved by applying the "Use First row as header" in power query. The datatypes for each column was also changed accordingly.
 
 ---
 
@@ -81,6 +83,7 @@ For both Customers and Products Table, first rows were not headers and this was 
 ---
 
 # Data Modelling
+
 The data for this analysis are located in various tables. For this reason, appropriate modelling is required. A star Schema is designed with the Sales Table representing the fact table containing all redundant data, and to which other dimension tables are connected to, using the column that is common. Sales Table has been modelled with:
 
 * SalesRep Table using the "SalesRep ID"
