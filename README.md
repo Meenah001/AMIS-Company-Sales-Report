@@ -1,21 +1,28 @@
 # AMIS-Company-Sales-Report
 
+---
+
 # Introduction
-In order to know the best location to build a new branch of AMIS company, an analysis was carried out on the dataset given for this to be achieved.The problem satatement is an imaginary case scenario I thought about after seeing the dataset.
+In order to know the best location to build a new branch of AMIS company, an analysis was carried out on the dataset given for this to be achieved. The problem satatement is an imaginary case scenario I thought about after seeing the dataset.
+
+---
 
 # Problem Statement
 
 An international company in Canada known as AMIS COMPANY wish to build a new branch of their office in a location where the highest sales has been made. At the board meeting, the stakeholders made a conclusion of awarding the salesrep that made the highest sales as the Manager of the new branch, also to give discount to the customer that has made the highest purchase.
 
 In order to achieve this, three questions need answers:
-1. Which Region/location has the highest sales made?
+
+1. Which Region/location has the highest sales made? 
+
 2. Which Sales rep has made the highest sales?
+
 3. Which of our Customers purchased highest sales?
 
 The dataset is an excel file saved locally in a folder. The dataset is denormalised, that is all data are in a single table and this is not ideal for carrying out analysis
 
 # Data sourcing
-The data was normalised that is, the combined information was seperated into differnt tables resulting into 5 tables:
+The data was normalised that is, the combined information was seperated into different tables resulting into 5 tables:
 * Sales Table
 * Customers Table
 * Sales Reps Table
@@ -29,19 +36,26 @@ Data was then imported from Excel Workbook into Power BI for transformation, ana
 Data cleaning and transformation was performed per table. All the tables are then cleaned with no errors or null values. Below is a preview of each tables:
 
 ---
+
 Customer's Table
 
 ![Customer’s Table](https://user-images.githubusercontent.com/97677904/210133551-6dfc7fca-8ece-4c41-886b-c346d05a0ff6.png)
 
+The column headers which were initially seen to be among the rows (records), were changed using the "Use the first row has Headers" in power query. 
+
 ---
+
 Location's Table
 
 ![Location Table](https://user-images.githubusercontent.com/97677904/210133594-e4d0d827-9b0c-4c15-8207-035d70f02d12.png)
 
 ---
+
 Product Table
 
 ![Product Table](https://user-images.githubusercontent.com/97677904/210133614-38f5bcc3-8e99-488a-a7c0-c1d5b0e4e7ff.png)
+
+The "ProductID" and "Product Name" were seen to be in the same column. In order to make them be in different columns, the command 'Split column by delimeter" was used and our aim to get two different column was achieved.
 
 ---
 SalesReps Table
