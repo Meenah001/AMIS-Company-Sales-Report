@@ -1,5 +1,7 @@
 # AMIS-Company-Sales-Report
 
+This is a company that deals with various kind of product, from technology, office supplies to furnitures. It's a well respected company amongs it pairs.
+
 ---
 
 # Introduction
