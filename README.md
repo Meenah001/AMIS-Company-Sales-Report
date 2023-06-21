@@ -14,13 +14,13 @@ An international company in Canada known as AMIS COMPANY wish to build a new bra
 
 In order to achieve this, three questions need answers:
 
-1. Which Region/location has the highest sales made? 
+1. Which Region/location was the highest sales made? 
 
-2. Which Sales rep has made the highest sales?
+2. Which Sales Rep has made the highest sales?
 
 3. Which of our Customers purchased highest sales?
 
-The dataset is an excel file saved locally in a folder. The dataset is denormalised, that is all data are in a single table and this is not ideal for carrying out analysis
+The dataset is an excel file saved locally in a folder. The dataset was denormalised, that is all data are in a single table and this is not ideal for carrying out analysis
 
 ---
 
@@ -115,21 +115,20 @@ The company has four region in which it sales are focused on, and these are the 
 ![1ii](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/42d4c255-ed1f-4d03-99ff-2a303e241283)
 
 
-There are three categories of product that are being produced in this company. We have the Technology product, Office supplies product and the Furniture product. The Technology product has brought more profit to the company's sales over the year. It has the highest profit of $145,454 and Furniture with the over all lowest profit of $18,451
+There are three categories of product that are being produced in this company. We have the Technology product, Office supplies product and the Furniture product. The Technology product has brought more profit to the company's sales over the years. It has the highest profit of $711,584 and Furniture with the over all lowest profit of $109,591
 
 ---
 
 # Total Sales made by each SalesReps
 
-![1iii](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/726a7b54-19e9-4be7-81ab-763893714491)
-
+![1iii](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/7674f489-516a-41ae-8fcf-7cfa3a1dfc0c)
 
 Something seems not to be right here. "ORGANIC" is definitely an outlier. After making more enquiries from the stakeholders, I got to know that the term "Organic" refers to sales made without the help of the salesreps and should thus be excluded:
 
-![1iv](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/181876c2-008f-4071-a493-c8db597b8abe)
+![1iv](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/8a06baa8-ff56-4520-b566-8ce7cb3274a2)
 
 
-After getting rid of the outlier which is the "Organic" from the data, the correct hierarchy of the salesReps in correlation with sales made is shown above, this help is to know the salesRep with the highest sales. As seen above, Morris Garcia had the highest sales of $92,366 and Jessica Smith had the lowest sales of $50,206
+After getting rid of the outlier which is the "Organic" from the data, the correct hierarchy of the salesReps in correlation with sales made is shown above, this help us to know the salesRep with the highest sales. As seen above, Morris Garcia had the highest sales of $473,719 and Jessicca Smith had the lowest sales of $257,565
 
 ---
 
@@ -138,17 +137,24 @@ After getting rid of the outlier which is the "Organic" from the data, the corre
 ![1v](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/f3c2678a-7a66-45b8-b18c-d9666e730f22)
 
 
-The segment that had the highest sales was Consumer segment, this recorded the total sales of over $1M follow by the Corporate segment with about $700k and Home office which is the last segment had the lowest sales of $429k
+The segment that had the highest sales was Consumer segment, this recorded the total sales of $5,819,347 follow by the Corporate segment with $3,516,107 and Home office which is the last segment had the lowest sales of $2,152,607
 
 ---
 
 # Customer and their total purchase
 
-![1vi](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/a6210f15-e1b5-4a50-874b-96a1d64cb4f6)
+![1vi](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/e99f0331-3dd1-4eb7-aaf4-51ed00482644)
 
 
+Apparently, Sean Miller happens to be the customer with the highest purchase of the company product. He has made a purchase of $142,359
 
-Apparently, Sean Miller happens to be the customer with the highest purchase of the company product. He has made a purchase of $25k
+---
+
+# Total Sales made over the years
+
+![1vv](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/cfe6b9dd-274e-46bd-a521-d0eef54e90a5)
+
+The highest sales was made in the year 2017, with total sales of $3,584,819 and the lowest sales was recorded in the year 2014, having total sales of $2,468,283
 
 ---
 
@@ -160,8 +166,11 @@ Apparently, Sean Miller happens to be the customer with the highest purchase of 
 
 * Sean Miller is the most precious customer at the moment and needs to be compensated either by an award or considerable discounts on subsequent purchase of any of the company's products
 
+---
 
+# Dashboard Image
 
+![AMIS Dashboard](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/3250aa35-b99e-4fd1-8b09-91c99918a261)
 
 
 
