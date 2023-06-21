@@ -101,37 +101,33 @@ Analysis was done using simple and appropriate visuals in Power Bi
 
 ---
 
-# Sales by Region
+# Total Sales and Profit made by Region
 
-![Sales by region](https://user-images.githubusercontent.com/97677904/210134228-3227989c-ca48-47db-a8ed-850f21fbafa8.png)
+![1i](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/68bf352e-95c2-435f-8bd6-069dd71ed172)
 
-The company has four region in which it sales are focused on, and these are the West, East, Central and South. The image above make it clear that the West had the highest sales of $725,457 and the South with the lowest sales of $391,721
 
----
-
-# Profit by Region
-
-![Profit by region](https://user-images.githubusercontent.com/97677904/210134507-2f293477-7110-4dec-b62a-8e1bbfc10886.png)
-
-Western region has made the highest profit so far, with about $108,418 follow by the Eastern region having $91,522 profit. The Central region had the lowest profit of $39,706
+The company has four region in which it sales are focused on, and these are the West, East, Central and South. The image above make it clear that the West had the highest sales of $3,595,227 and the South with the lowest sales of $2,037,675. It is also seen that Western region has made the highest profit so far, with about $532,832 follow by the Eastern region having $450,546 profit. The Central region had the lowest profit of $219,604
 
 ---
 
 # Profit by Category of product
 
-![Profit by category of product ](https://user-images.githubusercontent.com/97677904/210134660-4be1958e-a194-4ed5-b773-6d81f907f5b1.png)
+![1ii](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/42d4c255-ed1f-4d03-99ff-2a303e241283)
+
 
 There are three categories of product that are being produced in this company. We have the Technology product, Office supplies product and the Furniture product. The Technology product has brought more profit to the company's sales over the year. It has the highest profit of $145,454 and Furniture with the over all lowest profit of $18,451
 
 ---
 
-# Sales by SalesReps
+# Total Sales made by each SalesReps
 
-![Sales by sales rep](https://user-images.githubusercontent.com/97677904/210134762-691518d0-5c61-45eb-96b9-6a6f0e4d1235.png)
+![1iii](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/726a7b54-19e9-4be7-81ab-763893714491)
+
 
 Something seems not to be right here. "ORGANIC" is definitely an outlier. After making more enquiries from the stakeholders, I got to know that the term "Organic" refers to sales made without the help of the salesreps and should thus be excluded:
 
-![Best sales rep](https://user-images.githubusercontent.com/97677904/210134880-b5642fa5-0130-4abe-8f01-f3df930d6cf0.png)
+![1iv](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/181876c2-008f-4071-a493-c8db597b8abe)
+
 
 After getting rid of the outlier which is the "Organic" from the data, the correct hierarchy of the salesReps in correlation with sales made is shown above, this help is to know the salesRep with the highest sales. As seen above, Morris Garcia had the highest sales of $92,366 and Jessica Smith had the lowest sales of $50,206
 
@@ -139,15 +135,18 @@ After getting rid of the outlier which is the "Organic" from the data, the corre
 
 # Sales by Segment
 
-![Sales by segment](https://user-images.githubusercontent.com/97677904/210135127-d8c4bde6-5361-42e8-8ad8-ee6cd677b45c.png)
+![1v](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/f3c2678a-7a66-45b8-b18c-d9666e730f22)
+
 
 The segment that had the highest sales was Consumer segment, this recorded the total sales of over $1M follow by the Corporate segment with about $700k and Home office which is the last segment had the lowest sales of $429k
 
 ---
 
-# Sales by Customer's Name
+# Customer and their total purchase
 
-![PNG image](https://user-images.githubusercontent.com/97677904/210136237-8b64531d-72e6-4802-8ca9-85652ba717f4.png)
+![1vi](https://github.com/Meenah001/AMIS-Company-Sales-Report/assets/97677904/a6210f15-e1b5-4a50-874b-96a1d64cb4f6)
+
+
 
 Apparently, Sean Miller happens to be the customer with the highest purchase of the company product. He has made a purchase of $25k
 
